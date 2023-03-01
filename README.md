@@ -1,8 +1,10 @@
 # iOS-apprenticeship-project-2022-1q
 
+
 Thank you for participating in the iOS Apprenticeship program 2022 1Q!
 
 This README file contains the instructions to complete the capstone project for the Apprenticeship program.
+
 
 ## Table of Contents
 
@@ -240,5 +242,14 @@ https://api.themoviedb.org/3
 
 
 > \*_Important:_ Don't forget to include any additional information that might be necessary for running your code (for example, test user credentials, etc).
+
+
+![Screenshot 2023-03-01 at 15 25 53](https://user-images.githubusercontent.com/28610164/222268768-2f607b7f-8542-46eb-b373-c08c9e2a819a.png)
+![Screenshot 2023-03-01 at 15 25 43](https://user-images.githubusercontent.com/28610164/222268774-077d2110-c604-45e8-8f34-f5375da57846.png)
+![Screenshot 2023-03-01 at 15 25 13](https://user-images.githubusercontent.com/28610164/222268775-58d1b671-307c-4ac1-b727-680c4c3963e4.png)
+![Screenshot 2023-03-01 at 15 25 04](https://user-images.githubusercontent.com/28610164/222268776-608f2ad7-55a5-44c9-94c4-9482e6f2200c.png)
+![Screenshot 2023-03-01 at 15 24 49](https://user-images.githubusercontent.com/28610164/222268778-6ff79e2d-1e39-4f9c-85c7-f8a3ef60aaa8.png)
+![Screenshot 2023-03-01 at 15 24 44](https://user-images.githubusercontent.com/28610164/222268779-b97ccc38-1d82-4800-aeef-884f8c0afe21.png)
+![Screenshot 2023-03-01 at 15 24 27](https://user-images.githubusercontent.com/28610164/222268783-401b456c-eb1d-471f-84ab-23b3cc21f1c3.png)
 
 
